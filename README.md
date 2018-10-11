@@ -16,7 +16,7 @@ output:
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
 <h1 class=pfblock-header3> Zizi Papacharissi </h1>
-<h3 class=pfblock-header3> Professer and Head of Communication, Professor of Political Science </h3>
+<h3 class=pfblock-header3> Professor and Head of Communication, Professor of Political Science </h3>
 <h3 class=pfblock-header3> University of Illinois at Chicago </h3>
 
 <br><br>

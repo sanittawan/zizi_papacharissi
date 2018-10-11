@@ -16,7 +16,7 @@ title <- "Affective Publics: News Storytelling, Sentiment and Technology"
 file_title <- "Affective Publics: News Storytelling, Sentiment and Technology"
 short_title_n = 3
 speaker <- "Zizi Papacharissi"
-department <- "Professer and Head of Communication, Professor of Political Science"
+department <- "Professor and Head of Communication, Professor of Political Science"
 university <- "University of Illinois at Chicago"
 github_home <- "https://github.com/uchicago-computation-workshop"
 
